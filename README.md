@@ -1,3 +1,14 @@
+---
+title: Ubiquitous
+emoji: 🚀
+colorFrom: indigo
+colorTo: pink
+sdk: streamlit
+sdk_version: 1.28.1
+app_file: app.py
+pinned: false
+---
+
 # Ubiquitous
 
 OPen the Heatmap advanced folder.
